@@ -1,0 +1,1 @@
+<a href="{{ route('admin.product.index',['category_id' => $id]) }}" class="btn btn-primary btn-sm">@lang('product.products')</a>

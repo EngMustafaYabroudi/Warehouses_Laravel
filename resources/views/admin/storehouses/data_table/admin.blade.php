@@ -1,0 +1,1 @@
+<h5><span class="badge badge-primary">{{$storehouse->user->name}}</span></h5>

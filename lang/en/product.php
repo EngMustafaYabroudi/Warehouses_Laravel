@@ -1,0 +1,12 @@
+<?php 
+return[
+    'prdouct'=>'Prdouct',
+    'products'=>'Prdoucts',
+    'name'=>'Name',
+    'price'=>'Price',
+    'expiry_date'=>'Expiry_Date',
+    'description'=>'Description',
+    'created_by'=>'Createtd_By',
+    'boxes'=>'Boxes',
+    'image'=>'Image'
+];
